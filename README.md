@@ -27,11 +27,3 @@ Unleash the magic of cryptography with CryptoWonder – your passport to the wor
     ```
 
 3. Explore the wonders in the `/ciphers` directory.
-
-## 🎉 Contributing
-
-Join the CryptoWonder community! Dive into the [Contribution Guidelines](CONTRIBUTING.md) and be part of the magic.
-
-## 📜 License
-
-This project is enchanted under the MIT License - see the [LICENSE](LICENSE) file for details.
